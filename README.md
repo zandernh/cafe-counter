@@ -58,18 +58,10 @@ Styling includes hover states and a café-themed background image.
 ## 📂 File Structure
 
 cafe-counter/
-
-├── index.html
-# Main HTML file
-
-├── index.css
-# Styling for layout and buttons
-
-├── index.js
-# JavaScript logic for counter
-
-└── cafe.jpg
-# Background image
+├── index.html       # Main HTML file
+├── index.css        # Styling for layout and buttons
+├── index.js         # JavaScript logic for counter
+└── cafe.jpg         # Background image (optional)
 
 ---
 
