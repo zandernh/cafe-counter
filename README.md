@@ -65,7 +65,7 @@ cafe-counter/
 
 ├── index.js           --> JavaScript logic for counter
 
-└── cafe.jpg           --> Background image (optional)
+└── cafe.jpg           --> Background image
 
 ---
 
