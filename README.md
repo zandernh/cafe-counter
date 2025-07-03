@@ -38,6 +38,7 @@ To run this app locally:
 ### 1. Clone the repository
 
 git clone https://github.com/zandernh/cafe-counter.git
+
 cd cafe-counter
 
 ### 2. Open in browser
@@ -57,9 +58,13 @@ Styling includes hover states and a café-themed background image.
 ## 📂 File Structure
 
 cafe-counter/
+
 ├── index.html       # Main HTML file
+
 ├── index.css        # Styling for layout and buttons
+
 ├── index.js         # JavaScript logic for counter
+
 └── cafe.jpg         # Background image
 
 ---
